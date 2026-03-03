@@ -14,7 +14,7 @@ Go to 🌐 Professor Kweon’s Lab Website](https://prof-kweon.github.io/2026-Sp
 # **How to submit homework**
 Please use one of the three methods below
 
-## [Method 1: The easiest but most annoying way](./docs/markup/method1.md)
+## [Method 1: The easiest way](./docs/markup/method1.md)
 
 ## [Method 2: Using codespaces](./docs/markup/method2.md)
 
